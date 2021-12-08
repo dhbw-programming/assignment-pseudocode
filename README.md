@@ -1,5 +1,7 @@
-# Assignment 0
+# Assignment: Pseudocode
 
-Hello
+Upload your pseudocode.
 
-Please open this repo in Codespaces and fix `main.c` so that it prints `Hello` instead of `Bye`.
+Create an appropriate commit with your file and specify an appropriate commit message.
+
+Push your commit to the repository, zip the repository and upload it to moodle as your final hand-in.
